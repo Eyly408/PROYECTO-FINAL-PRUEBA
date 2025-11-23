@@ -1,0 +1,6 @@
+C:\Users\eylee\OneDrive\Escritorio\PruebaB2\BibliotecaAlertas\BibliotecaAlertas\bin\Debug\BibliotecaAlertas.dll
+C:\Users\eylee\OneDrive\Escritorio\PruebaB2\BibliotecaAlertas\BibliotecaAlertas\bin\Debug\BibliotecaAlertas.pdb
+C:\Users\eylee\OneDrive\Escritorio\PruebaB2\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.csproj.AssemblyReference.cache
+C:\Users\eylee\OneDrive\Escritorio\PruebaB2\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.csproj.CoreCompileInputs.cache
+C:\Users\eylee\OneDrive\Escritorio\PruebaB2\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.dll
+C:\Users\eylee\OneDrive\Escritorio\PruebaB2\BibliotecaAlertas\BibliotecaAlertas\obj\Debug\BibliotecaAlertas.pdb
