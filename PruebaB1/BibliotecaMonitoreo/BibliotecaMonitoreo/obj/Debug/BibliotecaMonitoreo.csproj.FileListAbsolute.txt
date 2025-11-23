@@ -1,0 +1,6 @@
+C:\Users\eylee\OneDrive\Escritorio\PruebaB1\BibliotecaMonitoreo\BibliotecaMonitoreo\bin\Debug\BibliotecaMonitoreo.dll
+C:\Users\eylee\OneDrive\Escritorio\PruebaB1\BibliotecaMonitoreo\BibliotecaMonitoreo\bin\Debug\BibliotecaMonitoreo.pdb
+C:\Users\eylee\OneDrive\Escritorio\PruebaB1\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.csproj.AssemblyReference.cache
+C:\Users\eylee\OneDrive\Escritorio\PruebaB1\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.csproj.CoreCompileInputs.cache
+C:\Users\eylee\OneDrive\Escritorio\PruebaB1\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.dll
+C:\Users\eylee\OneDrive\Escritorio\PruebaB1\BibliotecaMonitoreo\BibliotecaMonitoreo\obj\Debug\BibliotecaMonitoreo.pdb
